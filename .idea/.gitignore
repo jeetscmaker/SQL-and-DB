@@ -1,3 +1,21 @@
+*.iml
+*.jar
+*.class
+*.classpath
+*.war
+*/target/
+.idea/
+
 # Default ignored files
 /shelf/
 /workspace.xml
+/compiler.xml
+/encodings.xml
+/jarRepositories.xml
+/libraries/Maven__junit_junit_4_11.xml
+/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+/misc.xml
+/modules.xml
+/SQL-and-DB.iml
+/vcs.xml
+
